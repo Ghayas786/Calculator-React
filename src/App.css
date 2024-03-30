@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+ 
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Clac-wrap{
+  background-color: white;
+  width: 400px;
+  height: 450px;
+  border-radius: 16px;
+  margin-top: 50px;
+}
+.row{
+  display: flex;
+}
